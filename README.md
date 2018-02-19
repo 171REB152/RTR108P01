@@ -6,3 +6,4 @@ P01 Darba mērķi:
 •Apgūt elektriskās ķēdes sprieguma dalītāja simulāciju QUCS vidē.
 
 Pirmajā praktiskā darba bija iepazīšanas ar ķēžu simulātoriem.
+Viss iet labi.
